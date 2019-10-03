@@ -1,0 +1,4 @@
+name: dev
+microservice:
+   minBalance: 99
+   maxBalance: 200

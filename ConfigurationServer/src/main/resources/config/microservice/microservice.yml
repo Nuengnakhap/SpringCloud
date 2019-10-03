@@ -1,0 +1,5 @@
+name:
+   test: Hello
+microservice:
+   minBalance: 99
+   maxBalance: 200

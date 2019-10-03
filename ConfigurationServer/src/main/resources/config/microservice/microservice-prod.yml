@@ -1,0 +1,4 @@
+name: prod
+microservice:
+   minBalance: 99
+   maxBalance: 200
